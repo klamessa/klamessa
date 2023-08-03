@@ -1,5 +1,5 @@
-<h1 align="Left">Hey 👋, I'm Ketim</h1>
-<h3 align="Left">A CS student at the University of Minnesota.</h3>
+<h1 align="Left">Hey 👋,  I'm Ketim</h1>
+<h3 align="Left"> CS student at the University of Minnesota.</h3>
 
 - 🔭 I’m currently working on [BankAccount💰](https://github.com/klamessa/Bank_account)
 - 🌱 I’m currently learning **Operating Systems, AI**
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ketimlamessa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ketimlamessa/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ketimlamessa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ketimlamessa/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
