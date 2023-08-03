@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Ketim</h1>
-<h3 align="center">A CS student at the University of Minnesota.</h3>
+<h1 align="Left">Hey 👋, I'm Ketim</h1>
+<h3 align="Left">A CS student at the University of Minnesota.</h3>
 
 - 🔭 I’m currently working on [BankAccount💰](https://github.com/klamessa/Bank_account)
 
