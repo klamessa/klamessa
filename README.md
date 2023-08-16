@@ -2,7 +2,7 @@
 <h3 align="Left"> CS student at the University of Minnesota.</h3>
 
 - 🔭 I’m currently working on [BankAccount💰](https://github.com/klamessa/Bank_account)
-- 🌱 I’m currently learning **Operating Systems, AI**, Google Cloud...**
+- 🌱 I’m currently learning **Operating Systems, AI**, Google Cloud...
 
 
 <h3 align="left">Connect with me:</h3>
