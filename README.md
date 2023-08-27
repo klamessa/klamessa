@@ -1,7 +1,7 @@
 <h1 align="Left">Hey 👋,  I'm Ketim</h1>
 <h3 align="Left"> CS student at the University of Minnesota.</h3>
 
-- 🔭 I’m currently working on [BankAccount💰](https://github.com/klamessa/Bank_account)
+- 🔭 I’m currently working on [AssetAlign Financials💰](https://github.com/klamessa/Bank_account)
 - 🌱 I’m currently learning **Operating Systems, Google Cloud, Internet Programminng, OCaml**
 
 
