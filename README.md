@@ -2,7 +2,7 @@
 <h3 align="Left"> CS student at the University of Minnesota - TC.</h3>
 
 - 🔭 I’m currently working on [AssetAlign Financials💰](https://github.com/klamessa/Bank_account)
-- 🌱 I’m currently learning **Operating Systems, Google Cloud, Internet Programminng, OCaml**
+- 🌱 I’m currently learning **Database Systems, Computer Networks, Google Cloud, Functional Programming in OCaml**
 
 
 <h3 align="left">Connect with me:</h3>
