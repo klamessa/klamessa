@@ -1,9 +1,9 @@
 <h1 align="Left">Ketim Lamessa</h1>
-<h3 align="Left"> Alt. Github Account.</h3>
+<h3 align="Left"> Alternate Github Account.</h3>
 
 
 
-<h3 align="left">:</h3>
+<h3 align="left"></h3>
 <p align="left">
 <a href="https://linkedin.com/in/ketimlamessa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ketimlamessa/" height="30" width="40" /></a>
 </p>
