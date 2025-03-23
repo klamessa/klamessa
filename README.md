@@ -1,11 +1,9 @@
-<h1 align="Left">Hey 👋,  I'm Ketim</h1>
-<h3 align="Left"> CS student at the University of Minnesota - TC.</h3>
-
-- 🔭 I’m currently working on [AssetAlign Financials💰](https://github.com/klamessa/Bank_account)
-- 🌱 I’m currently learning **Secure Software and Operating Systems, Computer Networks, Software Design and Development, Machine Learning**
+<h1 align="Left">Ketim Lamessa</h1>
+<h3 align="Left"> Alt. Github Account.</h3>
 
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ketimlamessa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ketimlamessa/" height="30" width="40" /></a>
 </p>
