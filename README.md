@@ -1,5 +1,5 @@
 <h1 align="Left">Ketim Lamessa</h1>
-<h3 align="Left"> Alternate Github Account.</h3>
+<h3 align="Left"> Alt Github Account for Ketim Lamessa</h3>
 
 
 
